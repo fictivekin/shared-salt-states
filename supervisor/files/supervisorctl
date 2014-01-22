@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/local/bin/supervisorctl -c /etc/supervisor/supervisord.conf
